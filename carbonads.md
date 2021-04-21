@@ -2,5 +2,5 @@
 name: Carbon Ads
 site_url: https://www.carbonads.net
 category: Advertising
-description: "Getting paid for displaying dev/code related ads on your projects."
+description: "Carbon Ads helps developers generate revenue from their projects by offering relevant dev/code ads."
 ---
