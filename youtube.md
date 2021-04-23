@@ -1,6 +1,6 @@
 ---
-name: YouTube
-site_url: https://www.youtube.com/
+name: YouTube Partner
+site_url: https://support.google.com/youtube/answer/72851
 category: Advertising
-description: "Getting paid for displaying ads on your videos."
+description: "The YouTube Partner Program (YPP) enables revenue sharing from ads being served on your content."
 ---
