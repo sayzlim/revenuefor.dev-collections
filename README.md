@@ -1,4 +1,6 @@
-# Definition of Tool
+# Contributing
+
+## Definition of Tool
 - A tool can be a website, product (books, software), and service (SaaS).
 - A tool can help developers grow their career, project, and business.
 
